@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/deezos-website/static/css/main.e6c13ad2.css",
-    "main.js": "/deezos-website/static/js/main.c1b7787b.js",
+    "main.js": "/deezos-website/static/js/main.f88af7a8.js",
     "static/js/787.153615f2.chunk.js": "/deezos-website/static/js/787.153615f2.chunk.js",
     "index.html": "/deezos-website/index.html",
     "main.e6c13ad2.css.map": "/deezos-website/static/css/main.e6c13ad2.css.map",
-    "main.c1b7787b.js.map": "/deezos-website/static/js/main.c1b7787b.js.map",
+    "main.f88af7a8.js.map": "/deezos-website/static/js/main.f88af7a8.js.map",
     "787.153615f2.chunk.js.map": "/deezos-website/static/js/787.153615f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c1b7787b.js"
+    "static/js/main.f88af7a8.js"
   ]
 }
